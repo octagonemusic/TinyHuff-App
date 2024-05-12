@@ -14,7 +14,12 @@ const Decompress = () => {
     }
 
     // Check if the file is a .zip file
-    if (file.type !== "application/zip") {
+    const validMimeTypes = [
+      "application/zip",
+      "application/x-zip-compressed",
+      "multipart/x-zip",
+    ];
+    if (!validMimeTypes.includes(file.type)) {
       console.error("Invalid file type");
       alert("Please select a .zip file");
       return;
