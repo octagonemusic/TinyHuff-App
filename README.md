@@ -1,10 +1,10 @@
 ## TinyHuff: Huffman Compression Algorithm Implementation
 
-This project presents an implementation of the Huffman Compression algorithm, crafted by GitHub user @swativ5. The project is structured into two components:
+This project presents an implementation of the Huffman Compression algorithm, crafted by GitHub user [`@swativ5`](https://github.com/swativ5). The project is structured into two components:
 
-1. **Backend**: Utilizing Spring, the backend hosts REST APIs facilitating file compression and decompression employing the Huffman Compression algorithm developed by @swativ5. The REST API controllers are orchestrated by @octagonemusic.
+1. **Backend**: Utilizing Spring, the backend hosts REST APIs facilitating file compression and decompression employing the Huffman Compression algorithm developed by [`@swativ5`](https://github.com/swativ5). The REST API controllers are orchestrated by [`@octagonemusic`](https://github.com/octagonemusic).
 
-2. **Frontend**: Developed with React.js, the frontend furnishes a user-friendly interface for uploading files to undergo compression or decompression. The frontend development is credited to @octagonemusic.
+2. **Frontend**: Developed with React.js, the frontend furnishes a user-friendly interface for uploading files to undergo compression or decompression. The frontend development is credited to [`@octagonemusic`](https://github.com/octagonemusic).
 
 ## Usage Guide
 
@@ -24,6 +24,6 @@ Clone this repository to your local machine: `git clone https://github.com/octag
 
 ## Feedback and Support
 
-For any inquiries or feedback concerning the Huffman Compression algorithm, kindly contact @swativ5 on GitHub.
+For any inquiries or feedback concerning the Huffman Compression algorithm, kindly contact [`@swativ5`](https://github.com/swativ5) on GitHub.
 
-For queries or suggestions regarding the frontend or REST API controllers, please connect with @octagonemusic on GitHub.
+For queries or suggestions regarding the frontend or REST API controllers, please connect with [`@octagonemusic`](https://github.com/octagonemusic) on GitHub.
